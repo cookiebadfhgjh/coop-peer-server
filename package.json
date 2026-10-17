@@ -1,0 +1,12 @@
+{
+  "name": "coop-peer-server",
+  "version": "1.0.0",
+  "description": "PeerServer for Minecraft Co-op",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^1.0.2"
+  }
+}
